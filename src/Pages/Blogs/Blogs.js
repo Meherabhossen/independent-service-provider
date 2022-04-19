@@ -15,7 +15,21 @@ const Blogs = () => {
 
                 As a Google Cloud service, it also gives you access to other Google products and features, like Google Drive and Sheets. For instance, you can import dummy data from Google Sheets and use it temporarily to serve your app.</p>
             <h3>What other options do you have to implement authentication?</h3>
-       
+            <p>1.OneLogin, 
+                2.JumpCloud, 
+                3.Microsoft Azure Active Directory, 
+                4.CyberArk Identity, 
+                5.Auth0, 
+                </p>
+            <h3>What other services does firebase provide other than authentication?</h3>
+            <p> 1.Cloud Firestore,  
+                2.Cloud Functions,  
+                3.Authentication,  
+                4.Hosting,  
+                5.Cloud Storage,  
+                </p>
+        </div>
+    );
 };
 
 export default Blogs;
