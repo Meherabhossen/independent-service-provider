@@ -17,7 +17,7 @@ const Header = () => {
             <div className='mb-5'>
                 <Navbar fixed='top' collapseOnSelect expand="lg" bg="primary" variant="dark">
                     <Container>
-                        <Navbar.Brand as={Link} to="/"><img style={{ width: '70px', height: '25px' }} src="https://static.wixstatic.com/media/351431_ca8d1c9a454c48179efe367d9fb85397~mv2.png/v1/fill/w_560,h_214,al_c,q_85,usm_0.66_1.00_0.01/Adult-Gym-Logo-White.webp" alt="" /></Navbar.Brand>
+                        <Navbar.Brand as={Link} to="/"><img style={{ width: '70px', height: '25px' }} src="https://cdn1.vectorstock.com/i/1000x1000/54/15/wildlife-photography-logo-vector-26485415.jpg" alt="" /></Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="me-auto">
@@ -38,7 +38,7 @@ const Header = () => {
                     </Container>
                 </Navbar>
             </div>
-            <div className='my-5'><h1 className='text-center'>Robinho The Fitness Trainer Academy</h1></div>
+            <div className='my-5'><h1 className='text-center'> Welcome to Jack Stephen wildlife photography academy</h1></div>
         </div>
 
     );
