@@ -1,14 +1,15 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
 import Services from '../Services/Services';
-import TrainerInfo from '../TrainerInfo/TrainerInfo';
+import WildlifeInfo from '../WildlifeInfo/WildlifeInfo';
+
 
 const Home = () => {
     return (
         <>
             <Banner></Banner>
             <Services></Services>
-            <TrainerInfo></TrainerInfo>
+            <WildlifeInfo></WildlifeInfo>
         </>
     );
 };

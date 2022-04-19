@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TrainerInfo = () => {
+const WildlifeInfo = () => {
     return (
         <div className='container d-flex align-items-center mt-5'>
             <div>
@@ -14,4 +14,4 @@ const TrainerInfo = () => {
     );
 };
 
-export default TrainerInfo;
+export default WildlifeInfo;
