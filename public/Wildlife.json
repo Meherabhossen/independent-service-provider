@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "camera functions and fundamentals",
+        "price": "2500tk",
+        "description": "From this course you can learn the basic and the main fundamentals of a camera , and you will learn how the camera works and how can you take the best photo by your camera",
+        "img": "https://icdn.digitaltrends.com/image/digitaltrends/camera-button-guide-left-500x500.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Photography angles and lighting ",
+        "price": "1800tk",
+        "description": "This course is for the photographers, who wants learn the best photography angles and lighting. I will teach how to hold a camera and get a best angles ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGaq_G0Q-nLYrb8nvN6sTxCRYDO2lHh3-ohxc6XwMRpWTSPjd2yKQfZvQR09etR6CPdU&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Photo editing",
+        "price": "2500tk/m",
+        "description": "In this course a student can learn how to edit the photo and get a best colorful photo. And in this course im gonna teach how to use the Lightroom app . ",
+        "img": "https://i.ytimg.com/vi/olzLvOJQo1E/maxresdefault.jpg"
+    }
+]

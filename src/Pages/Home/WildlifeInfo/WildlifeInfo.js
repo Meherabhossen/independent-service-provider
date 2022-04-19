@@ -2,13 +2,13 @@ import React from 'react';
 
 const WildlifeInfo = () => {
     return (
-        <div className='container d-flex align-items-center mt-5'>
+        <div className='container align-items-center mt-5'>
             <div>
             <h1>Jack Stephen The photographer details </h1>
-            <p>I am a Certified wildlife photographer . Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae nihil, esse similique natus debitis deserunt temporibus aliquid minima perferendis optio, ducimus autem cum recusandae maiores distinctio alias, minus odit tenetur?</p>
+            <p>I am a Certified wildlife photographer. I work as a wildLife Photographer since 2005. In my carrier i visit so many places such as Switzerland, Canada, Africa, some nationals parks and rain forest for get the best wildLife photo.I won the international wildlife photography award 2 times </p>
             </div>
             <div>
-                <img style={{width: '120%'}} src="https://images.squarespace-cdn.com/content/v1/556323dee4b006bb6875f975/1593468972080-FYA3HX81ZY0OAK1HOIKL/Jorn+-Vangoidtsenhoven-wildlife-photographer.jpg" alt="" />
+                <img style={{width: '50%'}} src="https://images.squarespace-cdn.com/content/v1/556323dee4b006bb6875f975/1593468972080-FYA3HX81ZY0OAK1HOIKL/Jorn+-Vangoidtsenhoven-wildlife-photographer.jpg" alt="" />
             </div>
         </div>
     );

@@ -20,19 +20,14 @@ const Blogs = () => {
                 3.Microsoft Azure Active Directory, 
                 4.CyberArk Identity, 
                 5.Auth0, 
-                6.Rippling, 
-                7.SecureAuth Identity Platform, 
-                8.ForgeRock, 
-                9.Okta</p>
+                </p>
             <h3>What other services does firebase provide other than authentication?</h3>
             <p> 1.Cloud Firestore,  
                 2.Cloud Functions,  
                 3.Authentication,  
                 4.Hosting,  
                 5.Cloud Storage,  
-                6.Google Analytics,  
-                7.Predictions,  
-                8.Cloud Messaging</p>
+                </p>
         </div>
     );
 };

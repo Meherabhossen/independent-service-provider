@@ -18,7 +18,7 @@ const Service = ({ service }) => {
                         Detail: {description}
                     </Card.Text>
                     <Link to="/checkout">
-                    <button className='btn btn-primary'>Book This Course</button>
+                    <button className='btn btn-primary'>Get This Course</button>
                     </Link>
                 </Card.Body>
             </Card>
