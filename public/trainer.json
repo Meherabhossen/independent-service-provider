@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Weight Lift",
+        "price": "350tk/m",
+        "description": "This is the only exercise that can improve your health, And loose significant weight",
+        "img": "https://1-life.ca/wp-content/uploads/2016/11/One-Life-Kelowna-gym-personal-trainer-benefits.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cardio",
+        "price": "350tk/m",
+        "description": "This is improves Your body balance, recovers every kind of bone pain And loose significant weight",
+        "img": "https://image.shutterstock.com/image-photo/indoor-personal-cardio-training-gym-260nw-1822207589.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Regular Exercise",
+        "price": "250tk/m",
+        "description": "This is varities exercise that can improve over all body and your health",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyqGLB-mRxPpV3marhXaPw_q4cwHsaErnhg&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Athlete Body",
+        "price": "550tk/m",
+        "description": "You will need a professional trainer like Robinho, who can take care of you and your dream body",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHe63wWHvIqA9pvbaSmay3dSwPxcN3AklGg&usqp=CAU"
+    }
+]
